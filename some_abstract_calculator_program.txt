@@ -4,3 +4,4 @@ calculator can multiply
 calculator can divide
 calculator can extract square root
 caclulator has switchable light and dark themes
+calculator has animation of buttons
