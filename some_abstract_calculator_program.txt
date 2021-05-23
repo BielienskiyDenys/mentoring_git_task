@@ -2,3 +2,4 @@ calculator can add
 calculator can substract
 calculator can multiply
 calculator can divide
+calculator can extract square root
