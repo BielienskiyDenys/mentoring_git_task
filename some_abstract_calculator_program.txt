@@ -4,3 +4,4 @@ calculator can multiply
 calculator can divide
 calculator can extract square root
 calculator uses large numbers
+calculator logs intermediate operations
